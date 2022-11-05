@@ -1,0 +1,837 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1673423462552042996
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 806911661333070831}
+  m_Layer: 0
+  m_Name: tray_oreoCupcackes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &806911661333070831
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673423462552042996}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.47, y: 0.22227228, z: -0.37}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
+  m_Children:
+  - {fileID: 4339500105248602419}
+  - {fileID: 1801380296214364897}
+  - {fileID: 4075412190001308942}
+  - {fileID: 4256042358434867100}
+  - {fileID: 4679475850120661449}
+  - {fileID: 2898364248410496963}
+  - {fileID: 8335654219709005654}
+  - {fileID: 1516521335552013705}
+  - {fileID: 2080212853390460065}
+  - {fileID: 7634184929410811718}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &257816568583913090
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.545
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &8335654219709005654 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 257816568583913090}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1859935150397638290
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.352
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.193
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &7634184929410811718 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 1859935150397638290}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3516490983089686557
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.352
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.471
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &4679475850120661449 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 3516490983089686557}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5193451305627285921
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09183681
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178345405633485352, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+        type: 3}
+      propertyPath: m_Name
+      value: bakingTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 89e3d54ca715e4cb6bccb745a3161a4d, type: 3}
+--- !u!4 &4339500105248602419 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8371022002503221394, guid: 89e3d54ca715e4cb6bccb745a3161a4d,
+    type: 3}
+  m_PrefabInstance: {fileID: 5193451305627285921}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5238537798831170778
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.155
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &4075412190001308942 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 5238537798831170778}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5417193104746505800
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.471
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &4256042358434867100 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 5417193104746505800}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6342420096357096983
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.545
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.471
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &2898364248410496963 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 6342420096357096983}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7293024937747035229
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.545
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.827
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &1516521335552013705 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 7293024937747035229}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7548607199961154357
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &1801380296214364897 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 7548607199961154357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7846296417979106677
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 806911661333070831}
+    m_Modifications:
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.352
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.149
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.827
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000081460335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_Name
+      value: oreo cupcake (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8896319246249401198, guid: a6f556897924a43efa5e3350d7f82e56,
+        type: 3}
+      propertyPath: m_TagString
+      value: onTray
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6f556897924a43efa5e3350d7f82e56, type: 3}
+--- !u!4 &2080212853390460065 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8087835549934207444, guid: a6f556897924a43efa5e3350d7f82e56,
+    type: 3}
+  m_PrefabInstance: {fileID: 7846296417979106677}
+  m_PrefabAsset: {fileID: 0}
